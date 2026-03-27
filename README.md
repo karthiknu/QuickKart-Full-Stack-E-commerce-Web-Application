@@ -271,11 +271,10 @@ Make sure backend is running before starting frontend.
 
 **[Karthik N U](https://github.com/karthiknu)**
 
-```
 - **Contact Me:**
 - [![Gmail](https://img.shields.io)](mailto:karthiknu01@gmail.com)
 - [![LinkedIn](https://img.shields.io)](https://www.linkedin.com/in/karthik-n-u)
-```
+
 ---
 
 ## ⭐ Support
