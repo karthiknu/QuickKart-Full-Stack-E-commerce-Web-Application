@@ -164,23 +164,25 @@ User → Frontend → API → Business Layer → Data Layer → Database
 
 ### 🎨 Frontend
 
-* Angular
+* Angular (Azure Static Web App)
 * TypeScript
 * HTML
 * CSS
 
 ### ⚙️ Backend
 
-* ASP.NET Core
+* ASP.NET Core (Azure App Service)
 * C#
-* Web API
+* Web API (Azure Function App)
 
 ### 🧰 Tools
 
+* Microsoft Azure (https://portal.azure.com)
+* Azure DevOps (https://dev.azure.com)
 * Visual Studio
 * VS Code
 * Node.js
-* Git & GitHub
+* GitHub
 
 ---
 
@@ -246,16 +248,16 @@ Make sure backend is running before starting frontend.
 
 ## 🚧 Future Improvements
 
-💳 Payment Integration
-📦 Order Tracking
-⭐ Ratings & Reviews
-📱 Mobile Optimization
+- 💳 Payment Integration
+- 📦 Order Tracking
+- ⭐ Ratings & Reviews
+- 📱 Mobile Optimization
 
 ---
 
 🤝 Contributing
 
-🔹 Contributions are welcome! Feel free to fork this repo and submit pull requests.
+ Contributions are welcome! Feel free to fork this repo and submit pull requests.
 
 ---
 
@@ -267,7 +269,7 @@ Make sure backend is running before starting frontend.
 
 ## 👨‍💻 Author
 
-**Karthik N U**
+**[Karthik N U](https://github.com)**
 
 ---
 
