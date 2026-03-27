@@ -272,8 +272,8 @@ Make sure backend is running before starting frontend.
 **[Karthik N U](https://github.com/karthiknu)**
 
  **Contact Me:**
-- [![Gmail](https://img.shields.io)](mailto:karthiknu01@gmail.com)
-<a href="https://linkedin.com/in/karthik-n-u" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karthik n u" height="30" width="40" /></a>
+- (karthiknu01@gmail.com)
+- <a href="https://linkedin.com/in/karthik-n-u" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karthik n u" height="30" width="40" /></a>
 ---
 
 ## ⭐ Support
