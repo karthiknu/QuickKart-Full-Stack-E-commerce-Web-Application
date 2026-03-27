@@ -8,7 +8,7 @@ It simulates a real-world online shopping platform where users can browse produc
 
 ## 📸 Application Preview
 
-![QuickKart UI](screenshots/app-preview.png)
+![QuickKart UI](diagrams/app-preview.png)
 
 > 💡 This is the final running output of the application.
 
