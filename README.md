@@ -173,6 +173,7 @@ User → Frontend → API → Business Layer → Data Layer → Database
 
 * ASP.NET Core (Azure App Service)
 * C#
+* Azure SQL
 * Web API (Azure Function App)
 
 ### 🧰 Tools
